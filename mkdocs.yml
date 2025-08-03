@@ -5,8 +5,8 @@ theme:
   language: en
   palette:
     - scheme: default
-      primary: deep purple
-      accent: indigo
+      primary: Deep Navy Blue
+      accent: Turquoise Green
   features:
     - navigation.instant       # fast page transitions
     - navigation.sections
