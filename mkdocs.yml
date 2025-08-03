@@ -13,7 +13,8 @@ theme:
     - search.highlight
     - content.code.annotate    # call-out markers in code blocks
 nav:
-  - Home: index.md
+  - What is it?: index.md
+  - Register Now!: register.md
 plugins:
   - search
 markdown_extensions:

@@ -59,7 +59,7 @@ Our hands-on curriculum is designed to help you think like a programmer and buil
 
 * **Live session:** 2 hours every Saturday (recordings posted same day)
 * **Homework:** ~2 hours/week, graded for feedback—not marks  
-* **Mode:** Zoom + collaborative Jupyter environment (no installs required)
+* **Mode:** Zoom + PyCharm
 
 ---
 
