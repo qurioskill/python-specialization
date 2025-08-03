@@ -14,7 +14,7 @@ theme:
     - content.code.annotate    # call-out markers in code blocks
 nav:
   - What is it?: index.md
-  - Register Now!: register.md
+  - Register Now: register.md
 plugins:
   - search
 markdown_extensions:
