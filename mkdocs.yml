@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: 12-Week Python Specialization
+site_url: https://qurioskill.github.io/python-specialization/
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: indigo
+  features:
+    - navigation.instant       # fast page transitions
+    - navigation.sections
+    - search.highlight
+    - content.code.annotate    # call-out markers in code blocks
+nav:
+  - Home: index.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.tabbed
