@@ -3,9 +3,10 @@ site_url: https://qurioskill.github.io/python-specialization/
 theme:
   name: material
   language: en
+  logo: assets/logo.jpg
   palette:
     - scheme: default
-      primary: Deep Navy Blue
+      primary: amber
       accent: Turquoise Green
   features:
     - navigation.instant       # fast page transitions
@@ -13,7 +14,7 @@ theme:
     - search.highlight
     - content.code.annotate    # call-out markers in code blocks
 nav:
-  - What is it?: index.md
+  - Specialization Details: index.md
   - Register Now: register.md
 plugins:
   - search

@@ -1,9 +1,9 @@
 # **QurioSkill Python Specialization**
 ## **12-Week, Hands-On Program**
 
-[![Duration](https://img.shields.io/badge/duration-12_weeks-blue)](./#format) 
-[![Level](https://img.shields.io/badge/experience-beginner-blue)](./#who-is-this-for) 
-[![Format](https://img.shields.io/badge/format-live_online-blue)](./#format)
+[![Duration](https://img.shields.io/badge/duration-12_weeks-blue)](#format) 
+[![Level](https://img.shields.io/badge/experience-beginner-blue)](#who-is-this-for) 
+[![Format](https://img.shields.io/badge/format-live_online-blue)](#format)
 
 ---
 
@@ -16,7 +16,7 @@ But learning Python on your own can feel overwhelming. Many learners get stuck a
 This specialization is designed to guide you through that next step, with:
 
 * **Live weekly workshops** – where you’ll code *together* with an instructor, not just watch  
-* **Mini projects** inspired by real-world tasks – like building dashboards, working with APIs, or exploring simple AI use cases  
+* **Mini projects** inspired by real-world tasks
 * A **supportive learning environment** that keeps you motivated and moving forward  
 
 By the end, you won’t just know Python—you’ll be using it with confidence.
@@ -27,16 +27,15 @@ By the end, you won’t just know Python—you’ll be using it with confidence.
 
 This program is a great starting point if you're just beginning your programming journey—whether you're a student, a recent graduate, or a working professional exploring new skills.
 
-| ✔ A great fit if you are... | ✘ Might not be the right fit if... |
-|-----------------------------|-------------------------------------|
-| Curious about how coding works in the real world | You're looking for advanced machine learning topics |
-| Ready to invest ~5 hours/week to learn by doing | You can’t make time for regular practice |
-| Interested in building confidence through live, hands-on sessions | You prefer only theory without coding exercises |
-| Starting fresh or returning to programming after a break | You're already an experienced Python developer |
+| ✔ A great fit if you are...                      | ✘ Might not be the right fit if...                       |
+|--------------------------------------------------|----------------------------------------------------------|
+| Curious about how coding works in the real world | You're already an expert in python.                      |
+| Ready to invest ~3 hours/week to learn by doing  | You prefer self paced asynchronous courses.              |
+| Enjoy live group learning and problem solving.   | You're unable to dedicate ~3 hours for skill development. |
 
 **Prerequisites**
 
-* Basic computer literacy  
+* Basic computer literacy - Ability to install and work with applications on your computer.  
 * No prior Python required—Week 01 covers setup and fundamentals
 
 ---
@@ -45,21 +44,21 @@ This program is a great starting point if you're just beginning your programming
 
 Our hands-on curriculum is designed to help you think like a programmer and build real confidence with Python.
 
-| Theme                     | What You'll Learn                                                                 |
-|--------------------------|------------------------------------------------------------------------------------|
+| Theme                     | What You'll Learn                                                                                                    |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **🧱 Core Building Blocks**   | Understand Python data types: numbers, strings, booleans, lists, dictionaries, and how to organize data effectively. |
 | **🔁 Thinking in Logic**      | Use if-else statements, loops, and logical comparisons to control how your programs behave.                          |
-| **🔧 Writing Functions**     | Create reusable blocks of code with functions—learn how to define, call, and pass data between them.                |
-| **💡 Programming in Practice** | Reinforce learning through hands-on tasks, coding challenges, and step-by-step problem solving.                     |
-| **🚀 Real-World Projects**   | Build mini-projects like dashboards, API-based apps, and simple AI tools to apply your skills in real scenarios.     |
+| **🔧 Writing Functions**     | Create reusable blocks of code with functions—learn how to define, call, and pass data between them.                 |
+| **💡 Programming in Practice** | Reinforce learning through hands-on tasks, coding challenges, and step-by-step problem solving.                      |
+| **🚀 Real-World Projects**   | Build mini-projects for real world use cases and add relevant experience to your resume.                             |
 
 ---
 
 ## **Format**
 
-* **Live session:** 2 hours every Saturday (recordings posted same day)
+* **Live session:** 2 hours every week. (recordings posted same day)
 * **Homework:** ~2 hours/week, graded for feedback—not marks  
-* **Mode:** Zoom + PyCharm
+* **Tools:** Zoom + PyCharm
 
 ---
 
