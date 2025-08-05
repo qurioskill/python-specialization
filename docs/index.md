@@ -30,13 +30,13 @@ This program is a great starting point if you're just beginning your programming
 | ✔ A great fit if you are...                      | ✘ Might not be the right fit if...                       |
 |--------------------------------------------------|----------------------------------------------------------|
 | Curious about how coding works in the real world | You're already an expert in python.                      |
-| Ready to invest ~3 hours/week to learn by doing  | You prefer self paced asynchronous courses.              |
-| Enjoy live group learning and problem solving.   | You're unable to dedicate ~3 hours for skill development. |
+| Ready to invest ~3 hours/week to learn by doing  | You're unable to dedicate ~3 hours for skill development.              |
+| Enjoy live group learning and problem solving.   |  You prefer self paced asynchronous courses.|
 
 **Prerequisites**
 
 * Basic computer literacy - Ability to install and work with applications on your computer.  
-* No prior Python required—Week 01 covers setup and fundamentals
+* No prior Python required - Week 01 covers setup and fundamentals
 
 ---
 
@@ -57,7 +57,7 @@ Our hands-on curriculum is designed to help you think like a programmer and buil
 ## **Format**
 
 * **Live session:** 2 hours every week. (recordings posted same day)
-* **Homework:** ~2 hours/week, graded for feedback—not marks  
+* **Homework:** ~1 hours/week, graded for feedback—not marks  
 * **Tools:** Zoom + PyCharm
 
 ---
@@ -84,6 +84,17 @@ He also completed a 2-year fellowship with Teach for India, working with under-s
 Madhav is passionate about empowering individuals to thrive in their professional journeys by providing access to affordable learning resources.
 
 👉 [Connect on LinkedIn](https://www.linkedin.com/in/madhav-malhotra-06239b128/)
+
+---
+
+## **About QurioSkill**
+
+QurioSkill envisions a world where lack of skill is no longer holding back an individual from getting their dream job. 
+We provide online cohort based skill training, enabling individuals in their upskilling and reskilling journey.
+
+👉 [Website](https://www.qurioskill.ca/)
+
+👉 [Connect on LinkedIn](https://www.linkedin.com/company/qurioskill/)
 
 
 © QurioSkill, 2025. Fairness · Empathy · Empowerment
