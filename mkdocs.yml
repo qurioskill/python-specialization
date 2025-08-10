@@ -14,7 +14,9 @@ theme:
     - search.highlight
     - content.code.annotate    # call-out markers in code blocks
 nav:
-  - Specialization Details: index.md
+  - Overview: index.md
+  - Curriculum Snapshot: curriculum-snapshot.md
+  - Payment and Value Breakdown: payment-value.md
   - Register Now: register.md
 plugins:
   - search
