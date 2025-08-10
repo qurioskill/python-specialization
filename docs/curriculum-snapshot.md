@@ -1,5 +1,5 @@
 # **QurioSkill Python Specialization — Curriculum Snapshot**
-_A 12‑week, hands‑on program built for beginners moving toward intermediate._
+_A 12‑week, hands‑on program built for learners interested in python programming._
 
 ## **Learning outcomes**
 
