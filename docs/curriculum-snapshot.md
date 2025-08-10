@@ -24,3 +24,7 @@ We adopt a **hands-on, problem-solving** mindset: every class applies concepts t
 ---
 
 [**Register Now →**](https://forms.gle/pZHM9sbEb2T3ZyRE9)
+
+👉 [Website](https://www.qurioskill.ca/)
+
+👉 [Connect on LinkedIn](https://www.linkedin.com/company/qurioskill/)
