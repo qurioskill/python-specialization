@@ -26,3 +26,7 @@ markdown_extensions:
   - footnotes
   - pymdownx.superfences
   - pymdownx.tabbed
+extra:
+  analytics:
+    provider: google
+    property: G-PNJBZPP9PG
