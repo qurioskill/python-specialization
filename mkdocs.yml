@@ -13,6 +13,12 @@ theme:
     - navigation.sections
     - search.highlight
     - content.code.annotate    # call-out markers in code blocks
+
+extra:
+  analytics:
+    provider: google
+    property: G-PNJBZPP9PG
+
 nav:
   - Overview: index.md
   - Curriculum Snapshot: curriculum-snapshot.md
@@ -26,7 +32,3 @@ markdown_extensions:
   - footnotes
   - pymdownx.superfences
   - pymdownx.tabbed
-extra:
-  analytics:
-    provider: google
-    property: G-PNJBZPP9PG

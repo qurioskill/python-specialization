@@ -11,12 +11,7 @@
 ## **Pricing**
 - **Full Price:** **$300 CAD total**  
     - $25 CAD per 2-hour class (**24 total hours of instruction**)  
-    - Includes class recordings, materials, and instructor support  
-
-- **Attendee Credit:** $25 CAD discount for *Introduction to Python* attendees  
-    - **Discounted Price:** **$275 CAD total**  
-    - Less than $23 CAD per class  
-
+    - Includes class recordings, materials, and instructor support
 ---
 
 ## **Why It’s Worth It**
