@@ -68,7 +68,7 @@ Our hands-on curriculum is designed to help you think like a programmer and buil
 * **Price:** 300 CAD
 * **Seats:** Limited to 10 to keep workshops interactive
 
-[**Register Now →**](https://forms.gle/pZHM9sbEb2T3ZyRE9)
+[**Register Now →**](https://www.eventbrite.ca/e/12-week-python-specialization-tickets-1766713490609?aff=oddtdtcreator)
 
 Have questions? Email **hello@qurioskill.com**
 
